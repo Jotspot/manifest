@@ -5,6 +5,7 @@
     "display": "standalone",
     "background_color": "#f0f0f0",
     "theme_color": "#DC143C",
+    "version": "2.0",
     "icons": [
         {
             "src": "https://dummyimage.com/192x192/000000/fff.png%text=fart",
