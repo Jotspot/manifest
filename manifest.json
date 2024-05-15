@@ -16,7 +16,7 @@
         {
             "src": "https://dummyimage.com/144x144/000000/fff.png%text=fart",
             "sizes": "144x144",
-            "type": "image/png"
+            "type": "image/png",
             "purpose": "any"
         }
     ]
