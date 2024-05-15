@@ -1,0 +1,10 @@
+{
+    "name": "Control Panel",
+    "short_name": "Control Panel",
+    "start_url": "https://jotspot.rf.gd/drone/*",
+    "display": "standalone",
+    "background_color": "#f0f0f0",
+    "theme_color": "#DC143C",
+    "prefer_related_applications": "false"
+  }
+  
