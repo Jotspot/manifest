@@ -1,23 +1,23 @@
 {
-    "name": "Control Panel",
-    "short_name": "Control Panel",
-    "start_url": "https://jotspot.rf.gd/drone/",
-    "display": "standalone",
-    "background_color": "#f0f0f0",
-    "theme_color": "#DC143C",
-    "version": "2.2",
-    "icons": [
-        {
-            "src": "https://dummyimage.com/192x192/000000/fff.png%text=fart",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "https://dummyimage.com/144x144/000000/fff.png%text=fart",
-            "sizes": "144x144",
-            "type": "image/png",
-            "purpose": "any"
-        }
-    ]
+  "name": "Control Panel",
+  "short_name": "Control Panel",
+  "start_url": "https://jotspot.rf.gd/drone/",
+  "display": "standalone",
+  "background_color": "#f0f0f0",
+  "theme_color": "#DC143C",
+  "version": "2.3",
+  "icons": [
+    {
+      "src": "https://dummyimage.com/192x192/000000/fff.png?text=fart",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://dummyimage.com/144x144/000000/fff.png?text=fart",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
