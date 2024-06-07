@@ -1,5 +1,5 @@
 {
-"version": "1.6",    
+"version": "1.7",    
 "name": "Jotspot",
 "short_name": "Jotspot",
 "start_url": "https://jotspot.rf.gd/mobile",
@@ -20,6 +20,54 @@
     {
         "src": "https://jotspot.rf.gd/mobile/144.png",
         "sizes": "144x144",
+        "type": "image/png",
+        "purpose": "any maskable"
+    },
+    {
+        "src": "https://jotspot.rf.gd/mobile/72.png",
+        "sizes": "72x72",
+        "type": "image/png",
+        "purpose": "any maskable"
+    },
+    {
+        "src": "https://jotspot.rf.gd/mobile/180.png",
+        "sizes": "180x180",
+        "type": "image/png",
+        "purpose": "any maskable"
+    },
+    {
+        "src": "https://jotspot.rf.gd/mobile/114.png",
+        "sizes": "114x114",
+        "type": "image/png",
+        "purpose": "any maskable"
+    },
+    {
+        "src": "https://jotspot.rf.gd/mobile/76.png",
+        "sizes": "76x76",
+        "type": "image/png",
+        "purpose": "any maskable"
+    },
+    {
+        "src": "https://jotspot.rf.gd/mobile/120.png",
+        "sizes": "120x120",
+        "type": "image/png",
+        "purpose": "any maskable"
+    },
+    {
+        "src": "https://jotspot.rf.gd/mobile/152.png",
+        "sizes": "152x152",
+        "type": "image/png",
+        "purpose": "any maskable"
+    },
+    {
+        "src": "https://jotspot.rf.gd/mobile/60.png",
+        "sizes": "60x60",
+        "type": "image/png",
+        "purpose": "any maskable"
+    },
+    {
+        "src": "https://jotspot.rf.gd/mobile/57.png",
+        "sizes": "57x57",
         "type": "image/png",
         "purpose": "any maskable"
     },
