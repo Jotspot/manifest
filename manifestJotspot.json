@@ -1,0 +1,42 @@
+{
+"name": "Jotspot",
+"short_name": "Jotspot",
+"start_url": "/",
+"display": "standalone",
+"description": "https://jotspot.rf.gd in app form",
+"lang": "English",
+"dir": "auto",
+"theme_color": "#000000",
+"background_color": "#000000",
+"orientation": "portrait",
+"icons": [
+    {
+        "src": "512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+    },
+    {
+        "src": "192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+    }
+],
+"screenshots": [
+    {
+        "src": "screenshot.png",
+        "sizes": "740x1322",
+        "type": "image/png",
+        "description": "A screenshot of Jotspot"
+    }
+],
+"prefer_related_applications": false,
+"shortcuts": [
+    {
+        "name":"Jotspot",
+        "url":"/",
+        "description":"opens the Jotspot app"
+    }
+]
+}
