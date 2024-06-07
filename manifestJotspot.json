@@ -2,7 +2,7 @@
 "version": "1.5",    
 "name": "Jotspot",
 "short_name": "Jotspot",
-"start_url": "/",
+"start_url": "https://jotspot.rf.gd/mobile",
 "display": "standalone",
 "description": "https://jotspot.rf.gd in app form",
 "lang": "English",
@@ -42,7 +42,7 @@
 "shortcuts": [
     {
         "name":"Jotspot",
-        "url":"/",
+        "url":"https://jotspot.rf.gd/mobile",
         "description":"opens the Jotspot app"
     }
 ]
