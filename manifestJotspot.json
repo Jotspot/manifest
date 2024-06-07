@@ -1,5 +1,5 @@
 {
-"version": "1.1",    
+"version": "1.2",    
 "name": "Jotspot",
 "short_name": "Jotspot",
 "start_url": "/",
@@ -7,7 +7,7 @@
 "description": "https://jotspot.rf.gd in app form",
 "lang": "English",
 "dir": "auto",
-"theme_color": "#1a73e8",
+"theme_color": "#f5f5f5",
 "background_color": "#f5f5f5",
 "orientation": "portrait",
 "icons": [
